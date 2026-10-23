@@ -539,3 +539,5 @@ The GeoIP2 Java API uses [Semantic Versioning](https://semver.org/).
 This software is Copyright (c) 2013-2023 by MaxMind, Inc.
 
 This is free software, licensed under the Apache License, Version 2.0.
+
+Evaluation E8: dependency upgrade scanned by Migratowl.
